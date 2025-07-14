@@ -3,7 +3,7 @@
     <fullName>Sex__c</fullName>
     <externalId>false</externalId>
     <label>Sex</label>
-    <length>10</length>
+    <length>7</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
